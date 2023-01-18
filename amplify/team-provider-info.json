@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-facerecogapp-dev-223913-authRole",
+      "UnauthRoleArn": "arn:aws:iam::109216458397:role/amplify-facerecogapp-dev-223913-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::109216458397:role/amplify-facerecogapp-dev-223913-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-facerecogapp-dev-223913-deployment",
+      "UnauthRoleName": "amplify-facerecogapp-dev-223913-unauthRole",
+      "StackName": "amplify-facerecogapp-dev-223913",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:109216458397:stack/amplify-facerecogapp-dev-223913/801cb7e0-9735-11ed-a5e9-06d07b0158d5",
+      "AmplifyAppId": "d3dxxs5jdzigha"
+    },
+    "categories": {
+      "auth": {
+        "facerecogappc6d54d3a": {}
+      }
+    }
+  }
+}
